@@ -12,4 +12,11 @@
 - Return  : Calculated Area
 - Button  : Start Button ( Update Button )
 
+
+## GOALS
+- Creating Application from MATLAB
+- Coding in MATLAB
+- Visualize convolution of two Signals
+- 3 Weeks ***SPEED RUN***
+
 ![image](https://user-images.githubusercontent.com/109336369/195403178-1e5c63ef-67e8-408f-8fdd-12ffc0d4318c.png)
