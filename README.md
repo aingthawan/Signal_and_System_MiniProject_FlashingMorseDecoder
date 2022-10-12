@@ -1,8 +1,10 @@
 ## KMUTNB CprE. SIGNAL AND SYSTEM MINI PROJECT
 
-| MEMBERS    | ID            |
-|------------|---------------|
-| AINGTHAWAN | 6401012610042 |
+| MEMBERS       | ID            |
+|---------------|---------------|
+| AINGTHAWAN K. | 6401012610042 |
+| PAKAWAT M.    | XXXXXXXXXXXXX |
+
 
 * * * 
 
