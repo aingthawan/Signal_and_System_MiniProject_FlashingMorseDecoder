@@ -1,5 +1,5 @@
 # Idea [ No.0 ]
-- Date Written : Oct 12, 2022
+- Date Written : Oct 13, 2022 ( 00:03 )
 - For **Visualize** convolution of two Signals
 
 * * *
