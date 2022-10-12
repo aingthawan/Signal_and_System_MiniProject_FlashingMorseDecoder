@@ -1,4 +1,5 @@
-## KMUTNB CprE. SIGNAL AND SYSTEM MINI PROJECT
+## KMUTNB CprE. SIGNAL 
+## AND SYSTEM MINI PROJECT
 
 | MEMBERS       | ID            |
 |---------------|---------------|
