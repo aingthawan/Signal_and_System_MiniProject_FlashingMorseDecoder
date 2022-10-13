@@ -13,7 +13,7 @@
 - 3 Weeks ***SPEED RUN***
 
 ## Test
-- Light Source     : Xiaomi RGB Light Blub   **( Testing with 50% Brightness, Only color is changing )**
+- Light Source     : Xiaomi RGB Light Blub   **( Testing with 50% Brightness, Only color is changing, With least ambient light )**
 - Micro Controller : Arduino Nano
 - Sensor           : GY-30 Light Intensity Sensor
 
