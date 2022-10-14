@@ -1,4 +1,4 @@
-# Idea [ No.0 ]
+# Idea [ No.1 ]
 - Date Written : Oct 13, 2022 ( 17:39 )
 - Colour Identifier 
 - Arduino + GY-30 Light Intensity Sensor
