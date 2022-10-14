@@ -10,6 +10,8 @@
 - Arduino Programming
 - MATLAB App Creating
 - **decode light morse code signal to text**
+- OUTPUT : Text file
+- DISPLAY : Input Light Intensity Graph
 - 3 Weeks ***SPEED RUN***
 
 ## Test
