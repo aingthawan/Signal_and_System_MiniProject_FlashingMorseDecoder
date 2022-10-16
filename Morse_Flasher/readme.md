@@ -4,7 +4,7 @@
 
 * * *
 
-### (VERY) Simple DIY Morse Code Flasher From Arduino UNO + LED + Duct Tape
+### (VERY) Simple DIY Morse Code Flasher From Arduino UNO + LED + Nylon supported reinforcement adhesive material
 
 ![image](https://user-images.githubusercontent.com/109336369/196038453-d9ef0cd4-781e-4323-a1a3-11a3cdf19e8b.png)
 ![image](https://user-images.githubusercontent.com/109336369/196038483-3ba614f9-3ff4-481f-a93d-f74b9f0447fe.png)
