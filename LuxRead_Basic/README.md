@@ -16,27 +16,7 @@
 
 ### Basic Arduino Code For BH1750 Light Intensity Sensor
 
-```
-#include <BH1750FVI.h>
-
-BH1750FVI LightSensor(BH1750FVI::k_DevModeContLowRes); 
-
-void setup()
-{
-  Serial.begin(115200);
-  LightSensor.begin(); 
-}
-
-
-void loop()
-{
-  uint16_t lux = LightSensor.GetLightIntensity(); 
-  Serial.print("Light: ");
-  Serial.print(lux);
-  Serial.println(" lux");
-  delay(5);
-}
-```
+in lux.ino
 
 [>>> Code Reference](https://www.allnewstep.com/article/347/104-arduino-gy-30-%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%87-gy-30-bh1750fvi-gy-30)
 
