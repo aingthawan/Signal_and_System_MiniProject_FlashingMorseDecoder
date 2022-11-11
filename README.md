@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/109336369/201390634-53e9db11-cfbe-48a4-b473-68d1e0570bdc.png)
+
+
 ### KMUTNB CprE. 
 
 ## SIGNAL AND SYSTEM MINI PROJECT
