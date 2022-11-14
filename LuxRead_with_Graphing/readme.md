@@ -6,6 +6,15 @@ with a little experiment to see how they working with the morse code from the fl
 
 * * *
 
+Test signal : 
+
+H E L L O
+
+.... . .-.. .-.. ---
+
+
+* * *
+
 - distace from sensor to light flasher : ~25 cm ( Get kinda weird results, when they receive flashing pulse the value is inverse??? )
 
 ![image](https://user-images.githubusercontent.com/109336369/201618458-5074f151-d951-4f2b-8501-ad5e16484909.png)
