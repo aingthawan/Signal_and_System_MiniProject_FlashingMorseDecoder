@@ -1,3 +1,7 @@
+in case of en error uploading
+
+[Burn the bootloader on UNO, Mega, and classic Nano using another Arduino](https://support.arduino.cc/hc/en-us/articles/4841602539164-Burn-the-bootloader-on-UNO-Mega-and-classic-Nano-using-another-Arduino)
+
 ![image](https://user-images.githubusercontent.com/109336369/201390634-53e9db11-cfbe-48a4-b473-68d1e0570bdc.png)
 
 
