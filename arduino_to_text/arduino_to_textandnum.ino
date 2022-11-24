@@ -24,7 +24,11 @@ int index = 0;
 String abc[] = {
   "E","T","I","A","N","M","S","U","R","W",  // INDEX 1 -10
   "D","K","G","O","H","V","F"," ","L"," ",  // INDEX 11 -20
-  "P","J","B","X","C","Y","Z","Q"," "," "  // INDEX 21 -30
+  "P","J","B","X","C","Y","Z","Q"," "," ",  // INDEX 21 -30
+  "5","4"," ","3"," "," "," ","2"," "," ",  // INDEX 31 - ...
+  " "," "," "," "," ","1","6"," "," "," ",
+  " "," "," "," ","7"," "," "," ","8"," ",
+  "9","0"
   };
 
 // ===============================================================================
@@ -34,7 +38,7 @@ void setup() {
   Serial.begin(9600);
   LightSensor.begin();
   Serial.println("\n\nM O R S E  C O D E  E N C O D E R");
-  Serial.print("\nSTARTING ");
+  Serial.print("STARTING ");
   int sample = 10;
   int i = 0;
   while(i < sample){
