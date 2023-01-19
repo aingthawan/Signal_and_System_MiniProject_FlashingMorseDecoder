@@ -50,6 +50,8 @@ in case of en error uploading
 * Decode received morse code to text message.
 * Export the text message to text file.
 
-### User Guides :
-* DIY ( FYI : Do It Yourself [ FYI : For Your Information ] )
-* JK, Its under Construction. . . 
+* * *
+
+## (Forgot to) UPDATE
+
+This project is finished We reduce a scale of work to done only on arduino IDE and drop ot using MATLAB
